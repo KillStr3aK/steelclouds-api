@@ -1,4 +1,4 @@
 # steelclouds-api
 STEELCLOUDS - API
 
-CURRENLTY PRIVATE [ http://steelclouds.clans.hu ]
+CURRENTLY PRIVATE [ http://steelclouds.clans.hu ]
